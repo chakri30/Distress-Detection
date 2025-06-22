@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328345300432",
+    "project_id": "scream-detection",
+    "storage_bucket": "scream-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328345300432:android:98e657de3b9d08bab55dd5",
+        "android_client_info": {
+          "package_name": "com.example.activity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJDi5niua-IT90a_ynH4x4Jv8Z7ttcuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
